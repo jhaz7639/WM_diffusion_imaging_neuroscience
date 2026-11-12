@@ -1,0 +1,5 @@
+"search","total_to_date","sum_of_per_year_counts","not_in_per_year_counts","no_publication_year","dated_after_end_year","dated_before_start_year","no_year_but_dated_by_first_publication","unexplained_difference","shown_in_figure","figure_years","excluded_partial_year_count","pct_total_not_in_per_year","pct_total_not_in_figure"
+"fixel_based_analysis",619,617,2,2,0,0,2,0,514,"2015-2025",103,0.32,16.96
+"constrained_spherical_deconvolution",2279,2278,1,1,0,0,1,0,2000,"2008-2025",278,0.04,12.24
+"diffusion_tensor_imaging",49903,49818,85,78,6,0,78,0,46227,"1994-2025",3591,0.17,7.37
+"fractional_anisotropy",36514,36447,67,63,4,0,63,0,33920,"1998-2025",2527,0.18,7.1
